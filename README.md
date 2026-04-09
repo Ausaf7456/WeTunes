@@ -27,9 +27,6 @@ This project is created using:
 </p>
 
 
-## Project Report
-For more details, you can download the project report of this project from  [here](https://drive.google.com/file/d/1AEOGeuhFXcJq4rsQyneWRzaEyVs0OE5T/view?usp=drivesdk "Project Report").
-
 
 ## Image Attributions
 
